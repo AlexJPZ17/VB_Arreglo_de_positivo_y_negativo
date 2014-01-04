@@ -1,0 +1,9 @@
+D:\Mis Documentos\Projects Visual Studio 2012\Visual Basic\Claces\Console\AJ Programer\Arrelo de positivo y negativo\Arrelo de positivo y negativo\bin\Debug\Arrelo de positivo y negativo.exe.config
+D:\Mis Documentos\Projects Visual Studio 2012\Visual Basic\Claces\Console\AJ Programer\Arrelo de positivo y negativo\Arrelo de positivo y negativo\bin\Debug\Arrelo de positivo y negativo.exe
+D:\Mis Documentos\Projects Visual Studio 2012\Visual Basic\Claces\Console\AJ Programer\Arrelo de positivo y negativo\Arrelo de positivo y negativo\bin\Debug\Arrelo de positivo y negativo.pdb
+D:\Mis Documentos\Projects Visual Studio 2012\Visual Basic\Claces\Console\AJ Programer\Arrelo de positivo y negativo\Arrelo de positivo y negativo\bin\Debug\Arrelo de positivo y negativo.xml
+D:\Mis Documentos\Projects Visual Studio 2012\Visual Basic\Claces\Console\AJ Programer\Arrelo de positivo y negativo\Arrelo de positivo y negativo\obj\Debug\Arrelo_de_positivo_y_negativo.Resources.resources
+D:\Mis Documentos\Projects Visual Studio 2012\Visual Basic\Claces\Console\AJ Programer\Arrelo de positivo y negativo\Arrelo de positivo y negativo\obj\Debug\Arrelo de positivo y negativo.vbproj.GenerateResource.Cache
+D:\Mis Documentos\Projects Visual Studio 2012\Visual Basic\Claces\Console\AJ Programer\Arrelo de positivo y negativo\Arrelo de positivo y negativo\obj\Debug\Arrelo de positivo y negativo.exe
+D:\Mis Documentos\Projects Visual Studio 2012\Visual Basic\Claces\Console\AJ Programer\Arrelo de positivo y negativo\Arrelo de positivo y negativo\obj\Debug\Arrelo de positivo y negativo.xml
+D:\Mis Documentos\Projects Visual Studio 2012\Visual Basic\Claces\Console\AJ Programer\Arrelo de positivo y negativo\Arrelo de positivo y negativo\obj\Debug\Arrelo de positivo y negativo.pdb
